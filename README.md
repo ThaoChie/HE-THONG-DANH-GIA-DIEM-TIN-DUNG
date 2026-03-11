@@ -1,7 +1,1 @@
-# EasyCredit-He-Thong-Danh-Gia-Diem-Tinh-Dung
-# EasyCredit-He-Thong-Danh-Gia-Diem-Tinh-Dung
-# EasyCredit-He-Thong-Danh-Gia-Diem-Tinh-Dung
-# EasyCredit-He-Thong-Danh-Gia-Diem-Tinh-Dung
-# EasyCredit-He-Thong-Danh-Gia-Diem-Tinh-Dung
-# HE-THONG-CHO-VAY-TIN-DUNG
-# HE-THONG-CHO-VAY-TIN-DUNG
+EasyCredit - Hệ Thống Quản Trị Tín Dụng & Chấm Điểm Tự ĐộngEasyCredit là một hệ thống Fintech hiện đại được thiết kế để số hóa quy trình nộp hồ sơ vay vốn và tự động hóa việc đánh giá rủi ro tín dụng. Dự án được triển khai trên hạ tầng điện toán đám mây AWS, sử dụng công nghệ Docker để đảm bảo tính sẵn sàng và khả năng mở rộng.Tính Năng Cốt LõiĐăng ký & Định danh (E-KYC): Cho phép người dùng tạo tài khoản và quản lý hồ sơ tài chính cá nhân.Chấm điểm tín dụng tự động (Credit Scoring): Thuật toán thông minh tự động tính điểm dựa trên thu nhập, chỉ số nợ (DTI), trạng thái công việc và tài sản đảm bảo.Phân loại hạng mức (Ranking): Tự động xếp hạng khách hàng từ Rank A (Duyệt tự động) đến Rank D (Từ chối).Quản trị viên (Admin Dashboard): Cung cấp công cụ phê duyệt hồ sơ và biểu đồ trực quan về tỷ lệ nợ rủi ro.
